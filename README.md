@@ -15,4 +15,4 @@ Este repositório contém os projetos desenvolvidos na disciplina Neurocomputaç
   - [**Projeto 1 - MLP**](./Project_MLP.ipynb)
 
 
-**Obs.:** Em caso de problemas para visualização do notebook, utilize o seguinte site para renderização da página: https://nbviewer.jupyter.org
+**Obs.:** Em caso de problemas para visualização dos notebooks, utilize o seguinte site para renderização das páginas: https://nbviewer.jupyter.org
