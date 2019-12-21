@@ -13,6 +13,9 @@ Este repositório contém os projetos desenvolvidos na disciplina Neurocomputaç
 
 #### Projetos: 
   - [**Projeto 1 - MLP**](./Project1_MLP.ipynb)
+  - [**Projeto 2 - SOM**](./Project2_SOM.ipynb)
+  - [**Projeto 3 - GNG**](./Project3_GNG.ipynb)
+  - [**Projeto 4 - Autoencoder**](./Project4_Autoencoder.ipynb)
 
 
 **Obs.:** Em caso de problemas para visualização dos notebooks, utilize o seguinte site para renderização das páginas: https://nbviewer.jupyter.org
