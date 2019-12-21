@@ -16,6 +16,10 @@ Este repositório contém os projetos desenvolvidos na disciplina Neurocomputaç
   - [**Projeto 2 - SOM**](./Project2_SOM.ipynb)
   - [**Projeto 3 - GNG**](./Project3_GNG.ipynb)
   - [**Projeto 4 - Autoencoder**](./Project4_Autoencoder.ipynb)
+  
+  - [**Projeto Final - Exploiting Sentinel-1 SAR time series and artificial neural networks to detect grasslands in the northern Brazilian Amazon**](./Projeto final/1_Project_Description.ipynb)
 
 
-**Obs.:** Em caso de problemas para visualização dos notebooks, utilize o seguinte site para renderização das páginas: https://nbviewer.jupyter.org
+**Obs.:** 
+  - Em caso de problemas para visualização dos notebooks, utilize o seguinte site para renderização das páginas: https://nbviewer.jupyter.org
+  - Alguns dados não puderam ser carregados para o github devido ao tamanho dos arquivos.
